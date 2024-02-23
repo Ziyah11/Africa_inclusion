@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 # import matplotlib.pyplot as plt
-from sklearn.preprocessing import LabelEncoder, StandardScaler
+#from sklearn.preprocessing import LabelEncoder, StandardScaler
 import seaborn as sns
 import streamlit as st
 import joblib
